@@ -1,5 +1,3 @@
-# README
-
 ## Endpoint: `localhost:3000`
 
 ## Versions Used
